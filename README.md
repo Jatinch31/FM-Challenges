@@ -1,9 +1,12 @@
-# FM-Challenge - Web Development
+# FM-Challenges - Web Development
 
 - **Name**: Jatin
 - **Student Number**: 041122970
 - **GitHub Username**: Jatinch31
 - Challenge Name- To-Do List app
+  <img width="1710" alt="Screenshot 2025-03-07 at 9 44 24 PM" src="https://github.com/user-attachments/assets/f9d40d1f-f373-4066-b9a9-8a1d576d5e39" />
+<img width="1710" alt="Screenshot 2025-03-07 at 9 46 35 PM" src="https://github.com/user-attachments/assets/336b0485-d976-4d47-9dc6-18592fc03e77" />
+
 Here are some **challenges** you faced while developing your **To-Do List app** and their solutions. 
 ---
 
